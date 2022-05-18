@@ -8,7 +8,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EriikGabriel/1a44dd57dbba2eb9061a2d8b01513d5b/raw/126c63a0966e310c7c4947db67f440ff426aa8f4/github-card.svg" />
 
 
-## **📋 Basic Informations:** </br>
+## **📋 Basic Informations** </br>
 🎓 I'm graduated in Computer Technician at Etec Lins. </br>
 
 👨‍🎓 I'm studying Computer Science at UFSCar - Sorocaba. </br>
@@ -23,7 +23,7 @@
 
 <br><br>
 
-## **🔍 Technologies that can find here:**
+## **🔍 Technologies that can find here**
 <p align="left">
   <img src="https://img.shields.io/badge/Javascript-EAC80B?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">
   <img src="https://img.shields.io/badge/Typescript-1E4174?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"> 
@@ -55,7 +55,7 @@
 
 <br><br>
 
-## **📫 How to reach me:**
+## **📫 How to reach me**
 
 [![Website Badge](https://img.shields.io/badge/-erikgabriel.vercel.app-0f3d8c?style=flat-square&labelColor=0f3d8c&logoColor=white&link=https://erikgabriel.vercel.app)](https://erikgabriel.vercel.app)
 [![Twitter Badge](https://img.shields.io/badge/-@AqueleEriko-0f3d8c?style=flat-square&labelColor=0f3d8c&logo=twitter&logoColor=white&link=https://twitter.com/AqueleEriko)](https://twitter.com/AqueleEriko)
