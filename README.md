@@ -48,6 +48,6 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EriikGabriel" alt="EriikGabriel" /> </p>
 
-![Snake animation](https://github.com/rafaballerini/EriikGabriel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EriikGabriel/EriikGabriel/blob/output/github-contribution-grid-snake.svg)
 
 <!-- END-->
