@@ -60,7 +60,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@AqueleEriko-0f3d8c?style=flat-square&labelColor=0f3d8c&logo=twitter&logoColor=white&link=https://twitter.com/AqueleEriko)](https://twitter.com/AqueleEriko)
 [![Gmail Badge](https://img.shields.io/badge/-erikgabriel.work@gmail.com-0f3d8c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikgabriel.work@gmail.com)](mailto:erikgabriel.work@gmail.com)
 
-<br><br>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EriikGabriel" alt="EriikGabriel" /> </p>
 
