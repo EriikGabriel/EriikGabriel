@@ -1,19 +1,21 @@
 <!-- BEGIN -->
-
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/EriikGabriel/1a44dd57dbba2eb9061a2d8b01513d5b/raw/126c63a0966e310c7c4947db67f440ff426aa8f4/github-card.svg" />
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Erik Gabriel</h1>
 <h2 align="center"><i>Don't limit your challenges, challenge your limits. Evolution never stops!</i></h2>
 
-### **📋 Basic Informations:** </br>
+<br><br>
+
+## **📋 Basic Informations:** </br>
 🎓 I'm graduated in Computer Technician at Etec Lins. </br>
 👨‍🎓 I'm studying Computer Science at UFSCar - Sorocaba. </br>
 💼 I'm CEO at @GameShifters. </br>
 👨‍💻 I'm back-end and game developer. </br>
-📖 I’m currently learning Node, Docker and React. </br>
+📖 I’m currently learning Node, Python and Next. </br>
 ⚡ Fun fact: I don't drink coffee. </br>
 
----
+<br><br>
 
-### **🔍 Technologies that can find here:**
+## **🔍 Technologies that can find here:**
 <p align="left">
   <img src="https://img.shields.io/badge/Javascript-EAC80B?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">
   <img src="https://img.shields.io/badge/Typescript-1E4174?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
@@ -27,7 +29,8 @@
   <img src="https://img.shields.io/badge/CSharp-461A75?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
 </p>
 
----
+<br>
+
 <center>
   <table>
       <tr>
@@ -41,14 +44,16 @@
   </table>
 </center>
 
----
+<br><br>
 
-### **📫 How to reach me:**
+## **📫 How to reach me:**
 
+[![Website Badge](https://img.shields.io/badge/-erikgabriel.vercel.app-0f3d8c?style=flat-square&labelColor=0f3d8c&logoColor=white&link=https://erikgabriel.vercel.app)](https://erikgabriel.vercel.app)
 [![Twitter Badge](https://img.shields.io/badge/-@AqueleEriko-0f3d8c?style=flat-square&labelColor=0f3d8c&logo=twitter&logoColor=white&link=https://twitter.com/AqueleEriko)](https://twitter.com/AqueleEriko)
 [![Gmail Badge](https://img.shields.io/badge/-erikgabriel.work@gmail.com-0f3d8c?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikgabriel.work@gmail.com)](mailto:erikgabriel.work@gmail.com)
 
----
+<br><br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EriikGabriel" alt="EriikGabriel" /> </p>
 
 ![Snake animation](https://github.com/EriikGabriel/EriikGabriel/blob/output/github-contribution-grid-snake.svg)
