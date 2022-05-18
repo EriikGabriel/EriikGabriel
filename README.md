@@ -10,10 +10,15 @@
 
 ## **📋 Basic Informations:** </br>
 🎓 I'm graduated in Computer Technician at Etec Lins. </br>
+
 👨‍🎓 I'm studying Computer Science at UFSCar - Sorocaba. </br>
+
 💼 I'm CEO at @GameShifters. </br>
+
 👨‍💻 I'm back-end and game developer. </br>
+
 📖 I’m currently learning Node, Python and Next. </br>
+
 ⚡ Fun fact: I don't drink coffee. </br>
 
 <br><br>
