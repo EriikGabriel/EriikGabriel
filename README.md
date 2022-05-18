@@ -39,6 +39,7 @@
 
 <br><br>
 
+## **📈 Github Stats**
 <center>
   <table>
       <tr>
