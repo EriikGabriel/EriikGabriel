@@ -1,6 +1,6 @@
 <!-- BEGIN -->
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Erik Gabriel</h1>
+<h1 align="center">Hi there 👋, I'm Erik Gabriel</h1>
 <h2 align="center"><i>Don't limit your challenges, challenge your limits. Evolution never stops!</i></h2>
 
 <br>
