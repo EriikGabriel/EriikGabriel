@@ -34,5 +34,10 @@
 [![Twitter Badge](https://img.shields.io/badge/-@AqueleEriko-00803a?style=flat-square&labelColor=00803a&logo=twitter&logoColor=white&link=https://twitter.com/AqueleEriko)](https://twitter.com/AqueleEriko)
 [![Gmail Badge](https://img.shields.io/badge/-erikgabriel.work@gmail.com-00803a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erikgabriel.work@gmail.com)](mailto:erikgabriel.work@gmail.com)
 
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CA5A&height=120&section=footer"/>
+
+Icon made by [shotoartt](https://www.instagram.com/shotoartt/)
+
 <!-- END-->
