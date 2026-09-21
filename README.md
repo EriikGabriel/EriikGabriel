@@ -9,9 +9,9 @@
 
 <br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EriikGabriel&show_icons=true&count_private=true&hide_border=true&title_color=af00ca&icon_color=c3aded&text_color=DCDCDC&bg_color=0d1117" alt="EriikGabriel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriikGabriel&layout=compact&hide_border=true&title_color=af00ca&text_color=DCDCDC&bg_color=0d1117" />
+<div align="center">
+  <!-- Card de Sequência de Dias (Streak Stats) - Muito mais estável -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EriikGabriel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## **📋 Basic Informations** </br>
