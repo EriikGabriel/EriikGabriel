@@ -18,7 +18,7 @@
 
 🎓 I'm graduated in Computer Technician at Etec Lins.
 
-👨‍🎓 I'm studying Computer Science at UFSCar - Sorocaba.
+👨‍🎓 I'm a bachelor's degree in Computer Science at UFSCar - Sorocaba.
 
 💼 I'm CEO at @GameShifters.
 
